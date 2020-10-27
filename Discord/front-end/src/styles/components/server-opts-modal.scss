@@ -1,0 +1,28 @@
+.server-opts-modal {
+  background-color: darken($background-tertiary, 3%);
+  min-width: calc(100% - 20px);
+  margin-top: 8px;
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  .server-opts-menu {
+    position: relative;
+    z-index: 1;
+    padding: 10px 10px 0px 10px;
+    .menu-item {
+      min-width: 100%;
+      margin-bottom: 10px;
+      padding: 10px;
+      &:hover {
+        background-color: $logo-primary;
+    }
+    }
+  }
+  .back-drop-layer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}

@@ -1,0 +1,26 @@
+.upper-menu {
+  background-color: $background-primary;
+  height: 48px;
+  width: 100%;
+  color:$header-primary;
+  border-bottom: 1px solid;
+  border-color: $background-tertiary;
+  h2{
+    padding: 10px;
+  }
+  .server-opts-container{
+    width: 240px;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+  }
+  .server-opts-btn {
+    padding: 10px;
+    text-align: left;
+    background-color: $background-secondary;
+    font-size: 1rem;
+    min-height: 100%;
+    width: 100%;
+  }
+  
+}

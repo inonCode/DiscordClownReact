@@ -1,0 +1,11 @@
+.channels-list {
+    padding-left: 16px;
+  background-color: $background-secondary;
+  color: $channels-default;
+  min-width: 240px;
+  height: 100%;
+  .list-title {
+    width: 100%;
+    padding-top: 1rem;
+  }
+}

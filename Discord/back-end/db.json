@@ -1,0 +1,253 @@
+{
+  "servers": [
+    {
+      "name": "Desert",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603040643/jgqyjzyijrkqqlc2av9f.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        },
+        {
+          "name": "General2",
+          "id": 5,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603040646488,
+      "id": 1
+    },
+    {
+      "name": "Koala",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603041154/owxgfiuobsihgqvmwmse.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603041158240,
+      "id": 2
+    },
+    {
+      "name": "יייייייייייייייייייעכוןכי",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603044258/xyuuj9dnq2idhvix1qye.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603044266092,
+      "id": 3
+    },
+    {
+      "name": "Penguins",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603117429/d0b1xsvu28jdnhsmecws.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603117445050,
+      "id": 4
+    },
+    {
+      "name": "TEST",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603122396/spfuv1ckdzwjnxxmbjr3.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603122420696,
+      "id": 5
+    },
+    {
+      "name": "Tulips",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603625861/rx36us6dgwbgmg4a9stl.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603625871997,
+      "id": 6
+    },
+    {
+      "name": "sss",
+      "imgUrl": "https://previews.123rf.com/images/roxanabalint/roxanabalint1612/roxanabalint161200149/67233420-bullshit-grunge-rubber-stamp-on-white-background-vector-illustration.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603626008053,
+      "id": 7
+    },
+    {
+      "name": "ddgggggggg",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603673856/hy4apdsdoecuobgexgqv.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603673859204,
+      "id": 8
+    },
+    {
+      "name": "Flowers",
+      "imgUrl": "http://res.cloudinary.com/dn7ikdvam/image/upload/v1603726526/g0asu2dth7fvkrnwqa5c.jpg",
+      "textChannels": [
+        {
+          "name": "General",
+          "id": 1,
+          "msgs": [
+            {
+              "id": "1",
+              "content": "test msg 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+              "sentAt": 1600778717385,
+              "fromUser": {
+                "name": "Jimmy",
+                "imgUrl": "https://cdn.discordapp.com/avatars/230003441764794368/38a9b51ac90b17ad082f1bedfb088644.png?size=128"
+              }
+            }
+          ]
+        }
+      ],
+      "voiceChannels": [
+        {}
+      ],
+      "createdAt": 1603726538190,
+      "id": 9
+    }
+  ]
+}

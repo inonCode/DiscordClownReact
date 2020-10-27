@@ -1,0 +1,43 @@
+.servers-menu {
+  background-color: $background-tertiary;
+  min-width: 72px;
+  max-width: 72px;
+  height: 100vh;
+  padding-top: 12px;
+  .menu-item {
+    cursor: pointer;
+    color: $text-normal;
+    margin-bottom: 12px;
+    transition: border-radius 0.15s;
+    background-color: $background-primary;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    &:hover {
+      border-radius: 35%;
+    }
+    .home-icon {
+      width: 28px;
+      height: 20px;
+    }
+    .img-container{
+      width: 100%;
+      height: 100%;
+      @include aspect-ratio(1, 1);
+      border-radius: inherit;
+    }
+    img {
+     
+      border-radius: inherit;
+    }
+    .create-server-btn {
+      color: #43b581;
+    }
+  }
+  .wrraper {
+    flex-wrap: wrap;
+  }
+}
