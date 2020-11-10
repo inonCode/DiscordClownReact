@@ -1,40 +1,44 @@
 .chat-display {
-  position: relative;
   background-color: $background-primary;
-  flex-grow: 1;
-  .msg-display {
-    margin-top: 1.0625rem;
-    img {
-      position: absolute;
-      left: 16px;
-      margin-top: calc(9px - 0.125rem);
-      width: 40px;
-      border-radius: 50%;
-      overflow: hidden;
-      flex: 0 0 auto;
-    }
-    .msg-wrapper {
-      line-height: 1.375rem;
-      padding: 0.125rem 48px 0.125rem 72px;
-      font-size: 100%;
-      .username {
-        font-size: 1rem;
-        margin-right: 0.25rem;
+  .wrapper {
+    position: relative;
+    height: 100%;
+  }
+  .msgs-list {
+    height: 100%;
+    .msg-display {
+      img {
+        position: absolute;
+        left: 16px;
+        margin-top: calc(9px - 0.125rem);
+        width: 40px;
+        border-radius: 50%;
+        overflow: hidden;
+        flex: 0 0 auto;
       }
-      .time {
-        font-size: 0.75rem;
-        margin-left: 0.25rem;
-        color: $text-muted;
-      }
-      .msg-content {
-        color: $text-normal;
-        font-weight: 500;
+      .msg-wrapper {
+        line-height: 1.375rem;
+        padding: 0.125rem 48px 0.125rem 72px;
+        font-size: 100%;
+        .username {
+          font-size: 1rem;
+          margin-right: 0.25rem;
+        }
+        .time {
+          font-size: 0.75rem;
+          margin-left: 0.25rem;
+          color: $text-muted;
+        }
+        .msg-content {
+          color: $text-normal;
+          font-weight: 500;
+        }
       }
     }
   }
   .chat-controls {
     position: absolute;
-    bottom: 0%;
+    bottom: 0;
     width: 100%;
     padding: 0px 16px 0px 16px;
     input {
@@ -44,10 +48,9 @@
       height: 44px;
       margin-bottom: 24px;
       border-radius: 10px;
-      color:$text-normal;
-      ::placeholder{
+      color: $text-normal;
+      ::placeholder {
         color: $text-muted;
-
       }
     }
   }

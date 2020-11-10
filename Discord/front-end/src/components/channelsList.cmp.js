@@ -2,9 +2,7 @@ import React, { Component } from 'react'
 import ChannelDisplay from './channelDisplay.cmp'
 import svgService from '../services/svgService'
 export default class ChannelsList extends Component {
-    state = {
 
-    }
     render() {
         const { server, setCurrTextCh } = this.props
         return (

@@ -16,7 +16,6 @@ class ServerDisplay extends Component {
         let server = await this.props.loadCurrServer(id)
         if (server) {
             const server = this.props.currServer
-            // this.setState({ server })
             //setting the default text channel 
             this.setState({ currentTextCh: server.textChannels[0] })
         }
@@ -30,14 +29,14 @@ class ServerDisplay extends Component {
     }
 
     onRouteChanged = () => {
-        console.log("ROUTE CHANGED");
+        // console.log("ROUTE CHANGED");
         const { id } = this.props.match.params
         console.log(id);
         this.props.loadCurrServer(id)
         this.setState({ currentTextCh: this.props.currServer.textChannels[0]})
     }
     setCurrTextCh = (id) => {
-        console.log('setCurrtextChRuning', id);
+        // console.log('setCurrtextChRuning', id);
         const { currServer } = this.props
         const idx = currServer.textChannels.findIndex(ch => ch.id === id)
         this.setState({ currentTextCh: currServer.textChannels[idx] })
@@ -60,7 +59,6 @@ class ServerDisplay extends Component {
 }
 
 const mapStateToProps = state => {
-    console.log(state,'mapstatetoprops');
     return {
         servers: state.servers,
         currServer: state.currServer
